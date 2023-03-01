@@ -4,7 +4,7 @@
 The data I propose to visualize is from my [Social Media MQP](https://gist.githubusercontent.com/flanagancarlie/985c6e920016a7e0039d5105cc4fdb22/raw/9213b64f32e1ba5d076a96c9307a0be9de143f84/mqp_data.csv). This dataset is comprised of survey responses, where each respondant answered Likert scale questions on their recent social media use. Each question correlates to one of four scales: community building, self-expression, content discovery and user agency. Users optionally provided their age range, race, gender and sexuality.
 
 ## Prototypes
-![image](https://github.com/flanagancarlie/https://github.com/flanagancarlie/social-media-isp-proposal/blob/main/mqp_prototype.png?raw=true)
+![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/main/mqp_prototype.png?raw=true)
 The first prototype created was during prototyping of my MQP. We envisioned that for each scale we defined, we would plot each social media as well as a toggle of our demographic options.
 
 ![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/main/mqp_viz.png?raw=true)
