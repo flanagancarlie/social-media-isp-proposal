@@ -1,7 +1,7 @@
 # Independent Project Proposal: Visualizing Social Media Data
 
 ## Data
-The data I propose to visualize is from my [Social Media MQP](https://gist.githubusercontent.com/flanagancarlie/985c6e920016a7e0039d5105cc4fdb22/raw/9213b64f32e1ba5d076a96c9307a0be9de143f84/mqp_data.csv). This dataset is comprised of survey responses, where each respondant answered Likert scale questions on their recent social media use. Each question correlates to one of four scales: community building, self-expression, content discovery and user agency. Users optionally provided their age range, race, gender and sexuality.
+The data I propose to visualize is from my [Social Media MQP](https://socialsight.glitch.me/index.html), and the dataset can be found [here](https://gist.githubusercontent.com/flanagancarlie/985c6e920016a7e0039d5105cc4fdb22/raw/9213b64f32e1ba5d076a96c9307a0be9de143f84/mqp_data.csv). This dataset is comprised of survey responses, where each respondant answered Likert scale questions on their recent social media use. Each question correlates to one of four scales: community building, self-expression, content discovery and user agency. Users optionally provided their age range, race, gender and sexuality.
 
 Explanations of our scales from our MQP website are as follows: 
 
