@@ -3,6 +3,17 @@
 ## Data
 The data I propose to visualize is from my [Social Media MQP](https://gist.githubusercontent.com/flanagancarlie/985c6e920016a7e0039d5105cc4fdb22/raw/9213b64f32e1ba5d076a96c9307a0be9de143f84/mqp_data.csv). This dataset is comprised of survey responses, where each respondant answered Likert scale questions on their recent social media use. Each question correlates to one of four scales: community building, self-expression, content discovery and user agency. Users optionally provided their age range, race, gender and sexuality.
 
+Explanations of our scales from our MQP website are as follows: 
+
+
+Community on social media measures our social tendencies to connect with others on the internet. If social media encourages empathy, talking with your friends, family, and loved ones, or enables discussion amongst a like-minded group, it encourages community. All social media will have some community, as they are all social, but some may have features that distract from connections or make it harder to stick with a community, and will score lower.
+
+The Discovery scale relates to a user’s desire to see something new. Scrolling through social media for non-social reasons often means looking for something new to entertain, educate, or fascinate. We are interested to see how satisfied users are with the content they find and if content by small creators can be discovered by other audiences on the platform. For there to be new content for a user to discover, new creators need to be encouraged by the platform.
+
+Agency is related to user safety and comfort. Sometimes users are not looking for anything new, but instead old comfortable memories or their favorite videos from a while ago. Although users may want something new, they might find something they don't like and need tools to avoid it in the future. Social media feeds are tailored to the user, so the user needs to have some control over the space they want to create. Blocking people can protect from harassment, while muting words or tags (like on Twitter and Tumblr) can help you avoid posts that make a user uncomfortable. Moderation teams are necessary to keep content safe, and community lead moderation can create rules to fit a communities custom needs. We hope to measure how customizable, comfortable, and safe a platform is using this scale.
+
+The Self scale relates to how social media enables self-presentation, self-exploration, and the ego. Profile customization options can allow many to create authentic or inauthentic personas. Posts are often linked with virtual “achievements” such as likes or re-shares that can affect the ego. This scale aims to measure how a platform encourages identity presentation or getting lost in the crowd.
+
 ## Prototypes
 ![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/main/mqp_prototype.png?raw=true)
 
