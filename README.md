@@ -20,6 +20,8 @@ I want to visualize the perception of twelve social media with relation to demog
 * Does social media encourage some groups more than others? 
 
 ## Final Deliverables 
+
+### Video Presentation [YouTube](https://youtu.be/VPD-r8Y5wMQ)
 ### Survey Histograms
 [![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/final/final-isp/duration_hist.png?raw=true)](https://vizhub.com/flanagancarlie/84ae95a4edab41ba94c8146f77c17064)
 
