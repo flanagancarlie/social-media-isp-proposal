@@ -1,7 +1,7 @@
-# Independent Project Proposal: Visualizing Social Media Data
+# Independent Study: Visualizing Social Media Data
 
 ## Data
-The data I propose to visualize is from my [Social Media MQP](https://socialsight.glitch.me/index.html), and the dataset can be found [here](https://gist.githubusercontent.com/flanagancarlie/985c6e920016a7e0039d5105cc4fdb22/raw/9213b64f32e1ba5d076a96c9307a0be9de143f84/mqp_data.csv). This dataset is comprised of survey responses, where each respondant answered Likert scale questions on their recent social media use. Each question correlates to one of four scales: community building, self-expression, content discovery and user agency. Users optionally provided their age range, race, gender and sexual orientation.
+The data I have visualized is from my [Social Media MQP](https://socialsight.glitch.me/index.html), and the dataset can be found [here](https://gist.githubusercontent.com/flanagancarlie/985c6e920016a7e0039d5105cc4fdb22/raw/9213b64f32e1ba5d076a96c9307a0be9de143f84/mqp_data.csv). This dataset is comprised of survey responses, where each respondant answered Likert scale questions on their recent social media use. Each question correlates to one of four scales: community building, self-expression, content discovery and user agency. Users optionally provided their age range, race, gender and sexual orientation.
 
 Explanations of our scales from our MQP website are as follows: 
 >Community on social media measures our social tendencies to connect with others on the internet. If social media encourages empathy, talking with your friends, family, and loved ones, or enables discussion amongst a like-minded group, it encourages community. All social media will have some community, as they are all social, but some may have features that distract from connections or make it harder to stick with a community, and will score lower.
@@ -51,8 +51,8 @@ Additionally, I have created a psuedo-visual of a bubble chart. This would later
 ![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/final/viz_sketches.png?raw=true)
 
 View 1 displays a bubble chart, which will show all social media. The size of the bubble will correspond to the Likert scale value, where a Strongly Inhibits is a 1, and a 7 will correspond to Strongly Encourages. A dropdown will allow the user to change the scale being displayed.
-View 2 displays a radar pie chart. The pie chart will be divided into quadrants, with each quadrant representing a scale. Clicking on a quadrant's label will expand it to the entire circle to make it easier to view.
-For both views, a checkbox will be displayed next to the view to allow the user to pick and choose demographics. On default, all boxes will be checked and all data will be displayed.
+View 2 displays a radar pie chart. The pie chart will be divided into quadrants, with each quadrant representing a scale. This visualization was scrapped because it felt too cluttered, but I encourage others interested in trying out this visual.
+For both views, a checkbox would be displayed next to the view to allow the user to pick and choose demographics. On default, all boxes will be checked and all data will be displayed.
 
 ## Future Work
 Some ideas for future visualizations are as follows: 
