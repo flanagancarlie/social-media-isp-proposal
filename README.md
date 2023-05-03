@@ -15,11 +15,11 @@ Agency is related to user safety and comfort. Sometimes users are not looking fo
 The Self scale relates to how social media enables self-presentation, self-exploration, and the ego. Profile customization options can allow many to create authentic or inauthentic personas. Posts are often linked with virtual “achievements” such as likes or re-shares that can affect the ego. This scale aims to measure how a platform encourages identity presentation or getting lost in the crowd.
 
 ## Prototypes
-![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/main/mqp_prototype.png?raw=true)
+![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/final/mqp_prototype.png?raw=true)
 
 The first prototype created was during prototyping of my MQP. We envisioned that for each scale we defined, we would plot each social media as well as a toggle of our demographic options.
 
-![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/main/mqp_viz.png?raw=true)
+![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/final/mqp_viz.png?raw=true)
 
 The next prototype created is on our [MQP website](https://socialsight.glitch.me/). This scatterplot counters community and self, and discovery and agency. During our MQP we were unable to integrate demographic data. Additionally, this obfuscates the actual values by contrasting the scales.
 
@@ -31,7 +31,7 @@ I want to visualize the perception of twelve social media with relation to use d
 * Which group does each social media encourage post?
 
 ## Sketches
-![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/main/viz_sketches.png?raw=true)
+![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/final/viz_sketches.png?raw=true)
 
 View 1 displays a bubble chart, which will show all social media. The size of the bubble will correspond to the Likert scale value, where a Strongly Inhibits is a 1, and a 7 will correspond to Strongly Encourages. A dropdown will allow the user to change the scale being displayed.
 View 2 displays a radar pie chart. The pie chart will be divided into quadrants, with each quadrant representing a scale. Clicking on a quadrant's label will expand it to the entire circle to make it easier to view.
