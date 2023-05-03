@@ -20,8 +20,17 @@ I want to visualize the perception of twelve social media with relation to demog
 * Does social media encourage some groups more than others? 
 
 ## Final Deliverables 
-###Histograms
+### Survey Histograms
+[![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/final/final-isp/duration_hist.png?raw=true)](https://vizhub.com/flanagancarlie/84ae95a4edab41ba94c8146f77c17064)
 
+[![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/final/final-isp/gender%20hist.png?raw=true)](https://vizhub.com/flanagancarlie/1d1e71fcda994cabb58f497ba5764659)
+
+[![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/final/final-isp/social%20media%20hist.png?raw=true)](https://vizhub.com/flanagancarlie/639196d39a5a4a49ae559031fec45dd0)
+
+### Social Media Comparisons
+[![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/final/final-isp/bubble%20self.png?raw=true)](https://vizhub.com/flanagancarlie/b98cd56e8ba24d199e66aee898af281d)
+
+[![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/final/final-isp/social%20media%20viz.png?raw=true)](https://vizhub.com/flanagancarlie/dee28e9e2da543f69ca1f93ba4b61bdd)
 
 ## Prototypes
 ![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/final/mqp_prototype.png?raw=true)
@@ -35,7 +44,7 @@ The next prototype created is on our [MQP website](https://socialsight.glitch.me
 [![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/final/Histogram%20Basic.png?raw=true)](https://vizhub.com/flanagancarlie/099531ffa546434ebf740355944cbb9d)
 Instead of a psuedo-visual, I have created a histogram using simple data. This histogram is a prototype, which I then forked and modified for the final visuals.
 
-[![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/final/Histogram%20Basic.png?raw=true)](https://vizhub.com/flanagancarlie/099531ffa546434ebf740355944cbb9d)
+[![image](https://github.com/flanagancarlie/social-media-isp-proposal/blob/final/Bubble%20Psuedo-Viz.png?raw=true)](https://vizhub.com/flanagancarlie/b1307d07feac405e85726a4ecb135abc)
 Additionally, I have created a psuedo-visual of a bubble chart. This would later become the final bubble chart visualization.
 
 ## Sketches
@@ -48,4 +57,4 @@ For both views, a checkbox will be displayed next to the view to allow the user 
 ## Future Work
 Some ideas for future visualizations are as follows: 
 * Checkboxes to narrow down data between demographics
-* Integrating current visuals into our Glitch website
+* Integrating current visuals into our [MQP website](https://socialsight.glitch.me/)
